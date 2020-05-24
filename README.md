@@ -50,3 +50,5 @@ Lastly, fire up the Jupyter Notebook and let's get started.
 ```
 	jupyter notebook dog_app.ipynb
 ```
+#Summary
+https://medium.com/@abhishekravi60/transfer-learning-on-image-dataset-c4f5ed867a05
